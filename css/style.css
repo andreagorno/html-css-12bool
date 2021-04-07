@@ -1,0 +1,17 @@
+/* debug */
+[class *= "col-"] {
+    position: relative;
+    font-size: 18px;
+}
+
+p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pad {
+    padding: 5px;
+}
+/* /debug */
